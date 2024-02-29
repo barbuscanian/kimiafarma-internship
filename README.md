@@ -8,6 +8,8 @@ Proyek ini bertujuan untuk menciptakan dan mengimplementasikan sebuah dashboard 
 ## 2.Procurement Report Dashboard:
 Proyek ini berfokus pada pengembangan dashboard khusus untuk laporan pengadaan (procurement). Dashboard ini memberikan wawasan yang mendalam terkait dengan proses pengadaan, termasuk analisis biaya, efisiensi pengadaan, dan evaluasi kinerja pemasok. Tujuannya adalah memberikan pemahaman yang lebih baik tentang aspek pengadaan perusahaan.
 
+Link : https://public.tableau.com/app/profile/yoga.syahrul.ramadhan/viz/ProcurementPortofolio/Homepage
+
 ## 3.Project Blueprint Monitoring:
 Proyek ini menitikberatkan pada pemantauan dan evaluasi proyek-proyek yang sedang berlangsung dalam perusahaan. Visibilitas yang lebih baik terhadap kemajuan proyek, status tugas, dan kendala yang mungkin muncul. Hal ini bertujuan untuk meningkatkan manajemen proyek secara keseluruhan dan memastikan pencapaian tujuan dengan efisien.
 
